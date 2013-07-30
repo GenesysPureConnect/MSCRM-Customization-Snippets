@@ -1,0 +1,3 @@
+Click to dial was not an available feature in the out of the box implementation of Microsoft Dynamics CRM 2011. Luckily the latest system has made it a lot easier to manipulate the entity forms through the use of web resources. In this example you will create three such web resources in order to have the JavaScript search the content of the form for input fields that contain the word “phone” in the ID. Once found, the JavaScript will modify the DOM to append a click to dial button to the end of the input field if there is content within the field.
+
+See the wiki for install and setup instructions
